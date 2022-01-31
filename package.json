@@ -1,0 +1,11 @@
+{
+  "name": "lit-localize-directive-issue-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@lit/localize": "^0.11.2",
+    "lit": "^2.1.2"
+  }
+}
